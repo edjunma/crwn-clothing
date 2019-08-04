@@ -1,6 +1,6 @@
-## Lesson-17
+## Lesson-21
 
-We need to create our cart-item component for our cart and connect our cart component to our cart reducer.
+We also want to be able to update the quantity using buttons to the left and right of the number, so we will add the appropriate code to do so.
 
 # How to fork and clone
 
