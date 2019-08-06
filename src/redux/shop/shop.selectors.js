@@ -1,5 +1,4 @@
 import { createSelector } from 'reselect';
-import { create } from 'domain';
 
 const selectShop = state => state.shop;
 
