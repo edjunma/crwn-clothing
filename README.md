@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Lesson-25
 
 We have removed the redux-logger middleware from our production build!
@@ -15,6 +16,8 @@ After forking the project, simply clone it the way you would from the new forked
 
 # After you fork and clone:
 
+=======
+>>>>>>> 74cc9ebf1206da7bffd627d6e3d19a6477abf151
 ## Install dependencies
 
 In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
