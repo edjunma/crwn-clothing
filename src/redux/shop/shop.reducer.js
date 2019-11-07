@@ -1,4 +1,3 @@
-
 import ShopActionTypes from './shop.types';
 
 const INITIAL_STATE = {
@@ -13,6 +12,7 @@ const shopReducer = (state = INITIAL_STATE, action) => {
 				collections: action.payload
 			};
 		default:
+			return state;
 	}
 };
 
